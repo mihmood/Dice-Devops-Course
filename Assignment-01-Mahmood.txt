@@ -15,6 +15,14 @@ Continous Delivery is the process deploying changes to Test or Production enviro
 
 Continous Deployment is the process of deploying changes automatically as early as posible and all unit tests are successful.
 
+Q-3: What are the benefits of Cloud Computing:
+Answer:
+Servers in a third-party DataCenters, where you pay for the services on pay-as-you-go basis and you pay for only the services that you use for the time you use them.
+Benefits can include many items including but not limited to:
+- You donot have to purchase your own server or build an IT infrastructure. 
+- Services can be used whenever required for any duration of time. And release after the work is comleted.
+- Efficient for Disaster recovery and busines continuity. Cloud vendors are well equiped with unforeseen events such as any hardware/software failure, natural disasters, power outages, to ensure bussiness continuity.
+
 
 
 
