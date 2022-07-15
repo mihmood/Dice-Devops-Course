@@ -28,6 +28,16 @@ Answer:
 Git is an open source version control software. Used to track changes we make to a file or group of files. It is local to our system only.
 Github is a same but the only difference is that Github is hosted on public URL and if we make a public repo then any one over the internet can access it. 
 
+Q-5: Stages of Git:
+>>>>
+Modified: 
+This is the first stage in which a local repository is modified. These changes are not in the main repository only with the user who is working on it.
+
+Staged:
+This contains the file that are modified and will be added to the main repository.
+
+Commit:
+In this stage all the modiefications and pushed to the main repository and the main repo is now updated with latest working.
 
 
 
