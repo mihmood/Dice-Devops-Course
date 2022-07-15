@@ -23,6 +23,10 @@ Benefits can include many items including but not limited to:
 - Services can be used whenever required for any duration of time. And release after the work is comleted.
 - Efficient for Disaster recovery and busines continuity. Cloud vendors are well equiped with unforeseen events such as any hardware/software failure, natural disasters, power outages, to ensure bussiness continuity.
 
+Q-4: Difference b/w Git & Github:
+Answer:
+Git is an open source version control software. Used to track changes we make to a file or group of files. It is local to our system only.
+Github is a same but the only difference is that Github is hosted on public URL and if we make a public repo then any one over the internet can access it. 
 
 
 
