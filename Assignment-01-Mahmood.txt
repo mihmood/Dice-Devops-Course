@@ -1,0 +1,7 @@
+# Assignment 1
+# Mahmood Khan
+
+Q-1: Agile vs DevOps :
+Answer:
+Agile addresses gaps in Customer and Developer communications. DevOps addresses gaps in Developer and IT Operations communications
+Or DevOps helps to address the gap between development and operations, while Agile addresses gaps in Customer communication verses development.
