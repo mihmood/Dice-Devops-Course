@@ -32,15 +32,17 @@ Q-5: Stages of Git:
 >>>>
 Modified: 
 This is the first stage in which a local repository is modified. These changes are not in the main repository only with the user who is working on it.
-
 Staged:
 This contains the file that are modified and will be added to the main repository.
-
 Commit:
 In this stage all the modiefications and pushed to the main repository and the main repo is now updated with latest working.
 
-
-
+Q-6: 3 methods of git reset?
+Answer:
+The 3 stages of git reset are: Soft, Hard, Mixed
+Mixed: Uncommit and move to working directory
+Soft: Uncommit and move to staging
+Hard: Remove/delete the changes altogather. 
 
 
 
