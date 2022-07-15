@@ -1,7 +1,31 @@
 # Assignment 1
 # Mahmood Khan
 
-Q-1: Agile vs DevOps :
+Q-01: Agile vs DevOps :
 Answer:
 Agile addresses gaps in Customer and Developer communications. DevOps addresses gaps in Developer and IT Operations communications
 Or DevOps helps to address the gap between development and operations, while Agile addresses gaps in Customer communication verses development.
+
+
+Q-02: Define CI, Continuous Delivery & Continuous Deployment :
+Answer:
+Continous integration is the process of merging the changes to the main brach as often as possible. 
+
+Continous Delivery is the process deploying changes to Test or Production environment manualy.
+
+Continous Deployment is the process of deploying changes automatically as early as posible and all unit tests are successful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
