@@ -1,5 +1,6 @@
+
 	-------------------------------------------------
-	|	# Assignment 1				|
+	|	# Assignment 01				|
 	|	# Mahmood Khan				|
 	|	# Dice | DevOps | Batch-6		|
 	-------------------------------------------------
@@ -8,14 +9,13 @@ Q-01: Agile vs DevOps :
 Answer:
 Agile addresses gaps in Customer and Developer communications. DevOps addresses gaps in Developer and IT Operations communications
 Or DevOps helps to address the gap between development and operations, while Agile addresses gaps in Customer communication verses development.
-
-
+#--
 Q-02: Define CI, Continuous Delivery & Continuous Deployment :
 Answer:
 Continous integration is the process of merging the changes to the main brach as often as possible. 
 Continous Delivery is the process deploying changes to Test or Production environment manualy.
 Continous Deployment is the process of deploying changes automatically as early as posible and all unit tests are successful.
-
+#--
 Q-3: What are the benefits of Cloud Computing:
 Answer:
 Servers in a third-party DataCenters, where you pay for the services on pay-as-you-go basis and you pay for only the services that you use for the time you use them.
@@ -23,21 +23,21 @@ Benefits can include many items including but not limited to:
 - You donot have to purchase your own server or build an IT infrastructure. 
 - Services can be used whenever required for any duration of time. And release after the work is comleted.
 - Efficient for Disaster recovery and busines continuity. Cloud vendors are well equiped with unforeseen events such as any hardware/software failure, natural disasters, power outages, to ensure bussiness continuity.
-
+#--
 Q-4: Difference b/w Git & Github:
 Answer:
 Git is an open source version control software. Used to track changes we make to a file or group of files. It is local to our system only.
 Github is a same but the only difference is that Github is hosted on public URL and if we make a public repo then any one over the internet can access it. 
-
+#--
 Q-5: Stages of Git:
->>>>
+Answer:
 Modified: 
 This is the first stage in which a local repository is modified. These changes are not in the main repository only with the user who is working on it.
 Staged:
 This contains the file that are modified and will be added to the main repository.
 Commit:
 In this stage all the modiefications and pushed to the main repository and the main repo is now updated with latest working.
-
+#--
 Q-6: 3 methods of git reset?
 Answer:
 The 3 stages of git reset are: Soft, Hard, Mixed
