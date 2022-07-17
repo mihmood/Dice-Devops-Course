@@ -1,5 +1,8 @@
-# Assignment 1
-# Mahmood Khan
+	-------------------------------------------------
+	|	# Assignment 1				|
+	|	# Mahmood Khan				|
+	|	# Dice | DevOps | Batch-6		|
+	-------------------------------------------------
 
 Q-01: Agile vs DevOps :
 Answer:
@@ -10,9 +13,7 @@ Or DevOps helps to address the gap between development and operations, while Agi
 Q-02: Define CI, Continuous Delivery & Continuous Deployment :
 Answer:
 Continous integration is the process of merging the changes to the main brach as often as possible. 
-
 Continous Delivery is the process deploying changes to Test or Production environment manualy.
-
 Continous Deployment is the process of deploying changes automatically as early as posible and all unit tests are successful.
 
 Q-3: What are the benefits of Cloud Computing:
@@ -45,11 +46,4 @@ Soft: Uncommit and move to staging
 Hard: Remove/delete the changes altogather. 
 
 
-
-
-
-
-
-
-
-
+--End--
